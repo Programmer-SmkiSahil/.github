@@ -19,5 +19,5 @@ HTML, CSS, JavaScript, PHP, MySQL, Laravel, dan teman-temannya.
 ---
 
 > _"Ngoding dulu, ngeluh belakangan."_  
-> — Anak RPL pas debug tengah malam
+> — anomali RPL
 
